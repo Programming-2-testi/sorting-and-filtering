@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"exercise","l":"Filtering"},{"p":"json","l":"JsonFileReader"},{"p":"app","l":"MarkdownBlog"},{"p":"model","l":"Post"},{"p":"json","l":"PostReader"},{"p":"exercise","l":"Sorting"},{"p":"model","l":"User"},{"p":"json","l":"UserReader"},{"p":"app","l":"UsersAndPostsMain"}];updateSearchResults();
